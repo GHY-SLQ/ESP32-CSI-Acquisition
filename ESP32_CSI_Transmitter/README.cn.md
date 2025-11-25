@@ -1,4 +1,6 @@
-常见修改参数如下：
+# CSI发送端 [English](./README.md)
+
+## 常见修改参数
 
 信道：CONFIG_LESS_INTERFERENCE_CHANNEL
 
