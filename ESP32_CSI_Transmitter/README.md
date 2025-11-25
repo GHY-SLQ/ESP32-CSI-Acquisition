@@ -1,6 +1,6 @@
-# CSI_TRANSMITTER
+# CSI_TRANSMITTER [中文](./README.cn.md)
 
-Commonly modified parameters are listed below:
+## Commonly modified parameters are listed below
 
 Channel: CONFIG_LESS_INTERFERENCE_CHANNEL
 
