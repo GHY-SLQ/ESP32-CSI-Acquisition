@@ -1,4 +1,6 @@
-# CSI_RECEIVER_A
+# CSI_RECEIVER_A [中文](./README.cn.md)
+
+## Commonly modified parameters are listed below
 
 Channel: CONFIG_LESS_INTERFERENCE_CHANNEL
 
@@ -14,4 +16,6 @@ Second channel: effective when the bandwidth is set to 40MHz. You can modify the
 
 **The channel, bandwidth, mac and second channel should be the same as the ESP32 transmitter.**
 
-SPI pins vary depending on the ESP32 model. It is recommended to use the default configuration in the code when using ESP32S3 and ESP32C5. Please refer to the datasheet for other models. The datasheet can be downloaded at the following address: https://www.espressif.com/en/products/socs
+SPI pins vary depending on the ESP32 model. The code defines PIN_MOSI, PIN_MISO, PIN_SCLK, and PIN_CS. MISO is not used, and no wiring is actually required. 
+
+It is recommended to use the default configuration in the code when using ESP32S3 and ESP32C5. Please refer to the datasheet for other models. The datasheet can be downloaded at the following address: https://www.espressif.com/en/products/socs
