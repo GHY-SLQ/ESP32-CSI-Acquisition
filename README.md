@@ -1,4 +1,4 @@
-# ESP32-CSI-Acquisition
+# ESP32-CSI-Acquisition [查看中文说明](README.cn.md)
 
 ## Introduction
 
