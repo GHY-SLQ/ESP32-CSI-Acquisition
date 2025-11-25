@@ -6,7 +6,7 @@ This is a CSI acquisition platform based on ESP32. The ESP32 transmitter and ESP
 
 **All components are shown below:**
 
-<img width="3346" height="583" alt="New Design Receiving CSI" src="https://github.com/user-attachments/assets/02c17b6f-1e22-4922-a300-20c8baec0fcd" />
+<img width="3346" height="583" alt="New Design Receiving CSI" src="https://github.com/user-attachments/assets/28a94bf8-d1bb-4933-858b-d843c5ce9d97" />
 
 The programs for ESP32 Transmitter, ESP32 Receiver A and ESP32 Receiver B are based on ESP-IDF v5.5.1, other versions may have unexpected problems.
 
@@ -38,7 +38,7 @@ The following screenshots are serial port and terminal printouts.
 
 ### PC parsing
 
-The data creates the received_CSI folder under the folder where the code is located, and the csv file is named after the moment when the program starts running. Please refer to Example/example.csv for table effects.
+The program creates the received_CSI folder under the folder where the code is located, and the csv file is named after the moment when the program starts running. Please refer to Example/example.csv for table effects.
 
 <img width="1375" height="654" alt="Result04" src="https://github.com/user-attachments/assets/09ff50aa-d2f1-4baf-b043-ff00245f90ec" />
 
