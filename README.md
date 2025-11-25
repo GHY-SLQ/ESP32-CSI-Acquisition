@@ -22,6 +22,8 @@ For more information on how CSI data are arranged, please refer to the official 
 
 ## Operational Effect
 
+The following screenshots are serial port and terminal printouts.
+
 ### ESP32 transmitter
 
 <img width="747" height="119" alt="Result01" src="https://github.com/user-attachments/assets/854fd159-a482-4550-9649-b6fa4497ec60" />
