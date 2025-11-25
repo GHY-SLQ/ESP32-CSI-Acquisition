@@ -1,4 +1,4 @@
-# 基于ESP32的CSI采集平台 [View instructions in English](./README.md)
+# 基于ESP32的CSI采集平台 [English](./README.md)
 
 ## 概述
 
